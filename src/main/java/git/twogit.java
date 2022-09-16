@@ -5,6 +5,7 @@ public class twogit {
         System.out.println("hello ");
         System.out.println("我艹");
         System.out.println("好好学习天天向上");
+        System.out.println("我李鸿祥就知道天天打管");
 
     }
 }
