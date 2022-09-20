@@ -10,5 +10,7 @@ public class twogit {
         System.out.println("李鸿翔我就喜欢你这样你越这样我越喜欢");
         System.out.println("我要拉取李鸿翔李鸿翔ok好吧");
         System.out.println("李鸿翔在吃东西");
+        System.out.println("李鸿翔欧克的好吧");
+        
     }
 }
