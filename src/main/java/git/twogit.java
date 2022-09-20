@@ -8,5 +8,6 @@ public class twogit {
         System.out.println("hostfix test");
         System.out.println("我要push李鸿翔");
         System.out.println("李鸿翔我就喜欢你这样你越这样我越喜欢");
+        System.out.println("我要拉取李鸿翔李鸿翔ok好吧")
     }
 }
