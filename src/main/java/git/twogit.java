@@ -12,7 +12,7 @@ public class twogit {
 
         System.out.println("李鸿翔在吃东西");
         System.out.println("李鸿翔欧克的好吧");
-        
+        System.out.println("李鸿翔爱黄思容");
 
     }
 }
